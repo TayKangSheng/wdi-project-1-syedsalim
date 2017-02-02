@@ -85,7 +85,7 @@
 			this.$game.show("slow");
 		},
 
-		// Fisher--Yates Algorithm -- http://bost.ocks.org/mike/shuffle/
+		// Fisher--Yates Algorithm -- https://bost.ocks.org/mike/shuffle/
 		shuffle: function(array){
 			var counter = array.length, temp, index;
 	   	// While there are elements in the array
